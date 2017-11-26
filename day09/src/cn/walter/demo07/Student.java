@@ -1,5 +1,4 @@
 package cn.walter.demo07;
-
 /*
  * 学生类
  *  属性：姓名，年龄

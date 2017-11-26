@@ -42,6 +42,7 @@ public class CallName {
 	 * 定义方法，存储Student对象，到集合中
 	 */
 	public static void addStdent(ArrayList<Student> array){
+		
 		Student s1 =new Student();
 		s1.setName("gh1");
 		s1.setAge(21);
