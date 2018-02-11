@@ -26,8 +26,6 @@ public class Person {
 	public String toString() {
 		return  name + "..." + age ;
 	}
-	
-	
 	/*
 	 * 没有做重写父类，每次运行结果都是不同整数 Hash值
 	 * 重写，则自定义Hash值

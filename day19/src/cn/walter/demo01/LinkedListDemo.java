@@ -1,7 +1,6 @@
 package cn.walter.demo01;
 
 import java.util.LinkedList;
-
 /*
  * Linked 链表集合的特有功能
  * 	自身特点：链表底层实现，查询慢，增删快

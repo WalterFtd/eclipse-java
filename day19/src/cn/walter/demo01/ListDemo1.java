@@ -3,7 +3,6 @@ package cn.walter.demo01;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-
 /*
  * 迭代器的并发修改异常
  * ConcurrentModificationException

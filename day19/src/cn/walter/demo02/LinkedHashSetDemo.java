@@ -1,7 +1,6 @@
 package cn.walter.demo02;
 
 import java.util.LinkedHashSet;
-
 /*
  * LinkedHashSet 基于链表的哈希表实现
  * 继承自HashSet

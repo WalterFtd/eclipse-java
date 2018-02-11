@@ -12,4 +12,5 @@ package cn.walter.demo03;
  */
 public class HashDemo1 {
 
+	
 }

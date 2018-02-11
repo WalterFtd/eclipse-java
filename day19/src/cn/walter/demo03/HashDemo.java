@@ -10,7 +10,6 @@ public class HashDemo {
 		//结果不可预知,对象的hash值
 		int i = p.hashCode();
 		System.out.println(i);
-		
 		String s1 = "abc";
 		String s2 = new String("abc");
 		System.out.println(s1.hashCode());

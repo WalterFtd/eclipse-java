@@ -3,7 +3,6 @@ package cn.walter.demo02;
 import java.util.HashSet;
 
 import cn.walter.demo03.Person;
-
 /*
  * HashSet集合的自身特点
  * 	底层数据结构，哈希表

@@ -2,7 +2,6 @@ package cn.walter.demo01;
 
 import java.util.ArrayList;
 import java.util.List;
-
 /*
  * List接口派系，继承Collection接口
  * 	下面有很多实现类
